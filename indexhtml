@@ -1,0 +1,23 @@
+<html >
+  
+    <title> Укулеле </title>
+
+<body >
+    <header > 
+        <h1 style="color: #9ACD32"> Что такое укулеле?
+        </h1>
+        <h2 style="color: MediumVioletRed"> Какую выбрать новичку?
+        </h2>
+    </header>
+
+    <main style="color: DarkGreen"> Укулеле - это миниатюрная гитара с четырьмя струнами. На ней проще научиться играть , чем на классической или акустической гитаре .
+       <img src= "https://frankfurt.apollo.olxcdn.com/v1/files/dshrfbiq0gzb2-KZ/image;s=644x461"/>
+
+    </main>
+
+    <footer>
+       
+    </footer>
+    
+</body>
+</html> 
